@@ -1,1 +1,2 @@
-# Phecda Rust
+# phecda-rust
+a rust version of phecda
